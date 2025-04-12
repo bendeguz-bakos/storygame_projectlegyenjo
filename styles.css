@@ -1,0 +1,139 @@
+/*minden*/
+body{
+    background-image: url(./pic/pexels-pixabay-235985.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: papyrus;
+    margin: 0;
+    padding: 5rem;
+    color: white;
+    line-height: 1.75;
+    font-size: 1.2rem;
+}
+.terkep{
+    background-color: #795649;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #8a6e2f;
+}
+
+[popover]{
+    border-radius: 1rem;
+    padding: 0%;
+    max-width: 70%;
+}
+.iras{
+    background-color: #795649;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #8a6e2f;
+    border-bottom-color: #8a6e2f;
+    margin-top: 1rem;
+    color: white;
+    text-decoration: none;
+    font-size: 1.7rem;
+}
+
+.irasa{
+    background-color: #795649;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #8a6e2f;
+    border-bottom-color: #8a6e2f;
+    margin-top: 1rem;
+    color: white;
+    text-decoration: none;
+    margin: auto;
+    font-size: 1.7rem;
+}
+.beljebb{
+    padding-left: 10px;
+    font-size: 1.7rem;
+}
+
+.kisterkep{
+    background-color: #795649;
+    border: #795649 solid 0.3rem;
+    border-radius: 10px;
+    margin-top: 1rem;
+    color: white;
+    max-width: 99%;
+}
+.kisterkep img{
+    border-radius: 100px;
+}
+.vonl{
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-top: 6rem;
+    padding-bottom: auto;
+}
+.tovabb{
+    background-color: #795649;
+    padding: 2rem 10rem;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+.tovabb:hover{
+    background-color: #8a6e2f;
+    transition: background-color 0.5s ease;
+}
+.tovabb a{
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+}
+p{
+    font-size: 1.2rem;
+    text-align: justify;
+}
+.nev{
+    font-size: 1.7rem;
+}
+.tanacs{
+    background-color: #795649;
+    padding: 2rem 10rem;
+    margin: 2rem;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+} 
+.tanacs{
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+}
+.hint{
+    color: rgb(182, 182, 182);
+    font-size: 75%;
+}
+.tanacs:hover{
+    background-color: #8a6e2f;
+    transition: background-color 0.5s ease;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.fr{
+    margin-bottom: -30px;
+}
+.befnev{
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: #795649;
+    padding: 2rem 10rem;
+    border-radius: 10px;
+
+}
+.egybe{
+    padding-bottom: 66rem;
+    margin-bottom: -66rem;
+}
+
