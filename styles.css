@@ -1,14 +1,16 @@
-/*minden*/
+
 body{
     background-image: url(./pic/pexels-pixabay-235985.jpg );
     background-repeat: no-repeat;
     background-size: cover;
     font-family: papyrus;
-    margin: 0;
-    padding: 5rem;
+    width: 80%;
+    margin: auto;
     color: white;
     line-height: 1.75;
     font-size: 1.2rem;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 .terkep{
     background-color: #795649;
@@ -24,7 +26,7 @@ body{
 }
 .iras{
     background-color: #795649;
-    padding: 10px;
+    padding: 3%;
     border-radius: 10px;
     border-color: #8a6e2f;
     border-bottom-color: #8a6e2f;
@@ -95,7 +97,7 @@ p{
 }
 .tanacs{
     background-color: #795649;
-    padding: 2rem 10rem;
+    padding: 2rem;
     margin: 2rem;
     text-align: center;
     border-radius: 10px;
@@ -123,17 +125,19 @@ a{
     margin-bottom: -30px;
 }
 .befnev{
-    font-size: 2rem;
+    
     text-align: center;
     margin-top: 1rem;
     margin-bottom: 1rem;
     background-color: #795649;
-    padding: 2rem 10rem;
+    padding: 2rem;
     border-radius: 10px;
-
+    width: 100%;
 }
 .egybe{
     padding-bottom: 66rem;
     margin-bottom: -66rem;
 }
-
+.befer{
+    width: fit-content;
+}
