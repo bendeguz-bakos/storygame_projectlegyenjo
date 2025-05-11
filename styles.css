@@ -136,16 +136,23 @@ a{
     width: 100%;
 }
 .egybe{
-    padding-bottom: 66rem;
-    margin-bottom: -66rem;
+    
 }
 .befer{
     width: fit-content;
     overflow-wrap: break-word;
 }
 .kep{
-    width: 60%;
+    width: 50%;
     border-radius: 10px;
     float: right;
     margin-left: 10px;
+    
+}
+.pici{
+    width: 20%;
+    border-radius: 10px;
+    float: right;
+    margin-left: 10px;
+    
 }
