@@ -147,6 +147,7 @@ a{
     border-radius: 10px;
     float: right;
     margin-left: 10px;
+    max-height: 300px;
     
 }
 .pici{
